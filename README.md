@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Another hello-world repository
+This is the sample repository from the guided tour.
+
+
